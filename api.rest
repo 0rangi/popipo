@@ -1,0 +1,21 @@
+
+Post http://127.0.0.1:46765  HTTP/1.1
+Content-Type: application/json
+
+
+
+{
+"name": "Dassa",
+"email": "morenohadassa9@gmail.com",
+"password": "1234"
+}
+
+##############
+
+POST http://127.0.0.1:46765 HTTP/1.1
+Content-Type: application/json
+
+{
+"email": "morenohadassa9@gmail.com",
+"password": "1234"
+}
